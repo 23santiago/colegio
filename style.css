@@ -34,7 +34,7 @@ header a{
 }
 .buscar{
     color:rgb(22, 165, 248);
-    margin-left:110px;
+    margin-left:20px;
     margin-top:10px;
 }
 header .code{
@@ -43,7 +43,7 @@ header .code{
     padding-right:3px;
     list-style:none;
     justify-content:space-between;
-    margin-top:-180px;
+    margin-top:-160px;
     margin-left:400px;
     
 }
@@ -51,4 +51,3 @@ ul{
 flex-direction:wrap;
 
 }
-
