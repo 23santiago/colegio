@@ -44,10 +44,20 @@ header .code{
     list-style:none;
     justify-content:space-between;
     margin-top:-160px;
-    margin-left:400px;
+    margin-left:280px;
     
 }
 ul{
 flex-direction:wrap;
 
+}
+div.conteiner{
+	margin: auto;
+	text-align: center;
+	background-color: gray;
+	border: 1px solid black;
+	width: 700px;
+}
+div.conteiner>a{
+	color: orange;
 }
